@@ -8,7 +8,7 @@ Here are some ideas to get you started:
 
 - 🌱 I’m currently learning Terraform, Azure, YAML
 - 🔭 I’m currently working on CI/CD Projects
-- 👯 I’m looking to collaborate on anything regarding Cloud ☁
+- 🤝 I’m looking to collaborate on anything regarding Cloud ☁
 - 🤔 I’m looking for help with anything I can add value to.
 - 💬 Ask me about anything. Maybe I know. But if I don't, I will help as much as possible.
 - 🤔 I’m looking for help with coding
